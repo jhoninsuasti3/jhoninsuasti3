@@ -5,7 +5,7 @@
 1. Software Enginner Senior
    Cooming soon more info
 
-2. Principal stack in Python (Django, drf, FastAPI) - Javscript (React JS)
+2. Principal stack in Python (Django, drf, FastAPI) - Javascript (React JS), Node JS (NestJS, ExpressJS), TypeScript
 Cloud: AWS, GCP
 Architecture: 
 Databases: SQL - PostgreSQL, MySQL
